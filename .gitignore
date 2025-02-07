@@ -1,0 +1,43 @@
+# ai notes about project
+notes.txt
+
+# Compiled Go files
+*.exe
+*.dll
+*.so
+*.a
+
+# Go build artifacts
+/bin/
+/pkg/
+
+# Dependency directories
+vendor/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Docker-related files
+docker-compose.override.yml
+.docker/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Frontend build artifacts
+frontend/build/
