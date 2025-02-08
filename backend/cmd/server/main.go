@@ -2,8 +2,8 @@ package main
 
 import (
     "log"
-    "tennisapp/backend/internal/handlers"
-    "tennisapp/backend/pkg/db"
+    "tennisqwen/backend/internal/handlers"
+    "tennisqwen/backend/pkg/db"
 
     "github.com/gin-gonic/gin"
 )
